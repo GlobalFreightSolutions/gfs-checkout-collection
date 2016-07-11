@@ -1,0 +1,23 @@
+{
+	"name": "gfs-checkout-collection",
+	"version": "0.0.1",
+	"description": "Add a description",
+	"dependencies": {
+		"gfs-carrier-icon": "https://github.com/GlobalFreightSolutions/gfs-carrier-icon.git",
+		"gfs-carrier-icon": "https://github.com/GlobalFreightSolutions/gfs-carrier-info.git",
+		"gfs-carrier-icon": "https://github.com/GlobalFreightSolutions/gfs-checkout-button.git",
+		"gfs-carrier-icon": "https://github.com/GlobalFreightSolutions/gfs-checkout-widget.git",
+		"gfs-carrier-icon": "https://github.com/GlobalFreightSolutions/gfs-delivery-address.git",
+		"gfs-carrier-icon": "https://github.com/GlobalFreightSolutions/gfs-droppoint.git",
+		"gfs-carrier-icon": "https://github.com/GlobalFreightSolutions/gfs-selected-droppoint.git",
+		"gfs-carrier-icon": "https://github.com/GlobalFreightSolutions/gfs-supported-carriers.git"
+	},
+	"main":"gfs-checkout-collection.html",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/GlobalFreightSolutions/gfs-checkout-collection.git"
+	},
+	"ignore": [
+	], 
+	"private": true
+}
