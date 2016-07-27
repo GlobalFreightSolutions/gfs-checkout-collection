@@ -3,14 +3,14 @@
 	"version": "0.0.1",
 	"description": "Add a description",
 	"dependencies": {
-		"gfs-carrier-icon": "https://github.com/GlobalFreightSolutions/gfs-carrier-icon.git",
-		"gfs-carrier-info": "https://github.com/GlobalFreightSolutions/gfs-carrier-info.git",
-		"gfs-checkout-button": "https://github.com/GlobalFreightSolutions/gfs-checkout-button.git",
-		"gfs-checkout-widget": "https://github.com/GlobalFreightSolutions/gfs-checkout-widget.git",
-		"gfs-delivery-address": "https://github.com/GlobalFreightSolutions/gfs-delivery-address.git",
-		"gfs-droppoint": "https://github.com/GlobalFreightSolutions/gfs-droppoint.git",
-		"gfs-selected-droppoint": "https://github.com/GlobalFreightSolutions/gfs-selected-droppoint.git",
-		"gfs-supported-carriers": "https://github.com/GlobalFreightSolutions/gfs-supported-carriers.git"
+		"gfs-carrier-icon": "https://github.com/GlobalFreightSolutions/gfs-carrier-icon.git#master",
+		"gfs-carrier-info": "https://github.com/GlobalFreightSolutions/gfs-carrier-info.git#master",
+		"gfs-checkout-button": "https://github.com/GlobalFreightSolutions/gfs-checkout-button.git#master",
+		"gfs-checkout-widget": "https://github.com/GlobalFreightSolutions/gfs-checkout-widget.git#master",
+		"gfs-delivery-address": "https://github.com/GlobalFreightSolutions/gfs-delivery-address.git#master",
+		"gfs-droppoint": "https://github.com/GlobalFreightSolutions/gfs-droppoint.git#master",
+		"gfs-selected-droppoint": "https://github.com/GlobalFreightSolutions/gfs-selected-droppoint.git#master",
+		"gfs-supported-carriers": "https://github.com/GlobalFreightSolutions/gfs-supported-carriers.git#master"
 	},
 	"devDependencies": {
 	    "iron-component-page": "PolymerElements/iron-component-page#^1.0.0",
