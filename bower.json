@@ -1,16 +1,15 @@
 {
 	"name": "gfs-checkout-collection",
-	"version": "0.0.1",
-	"description": "Add a description",
+	"version": "1.0.0",
+	"description": "The GFS Checkout collection",
 	"dependencies": {
-		"gfs-carrier-icon": "https://github.com/GlobalFreightSolutions/gfs-carrier-icon.git#master",
-		"gfs-carrier-info": "https://github.com/GlobalFreightSolutions/gfs-carrier-info.git#master",
-		"gfs-checkout-button": "https://github.com/GlobalFreightSolutions/gfs-checkout-button.git#master",
-		"gfs-checkout-widget": "https://github.com/GlobalFreightSolutions/gfs-checkout-widget.git#master",
-		"gfs-delivery-address": "https://github.com/GlobalFreightSolutions/gfs-delivery-address.git#master",
-		"gfs-droppoint": "https://github.com/GlobalFreightSolutions/gfs-droppoint.git#master",
-		"gfs-selected-droppoint": "https://github.com/GlobalFreightSolutions/gfs-selected-droppoint.git#master",
-		"gfs-supported-carriers": "https://github.com/GlobalFreightSolutions/gfs-supported-carriers.git#master"
+		"gfs-carrier-icon": "^1.0.0",
+		"gfs-carrier-info": "^1.0.0",
+		"gfs-checkout-widget": "^1.0.0",
+		"gfs-delivery-address": "^1.0.0",
+		"gfs-droppoint": "^1.0.0r",
+		"gfs-selected-droppoint": "^1.0.0",
+		"gfs-supported-carriers": "^1.0.0"
 	},
 	"devDependencies": {
 	    "iron-component-page": "PolymerElements/iron-component-page#^1.0.0",
