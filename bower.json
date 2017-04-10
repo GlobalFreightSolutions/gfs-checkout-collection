@@ -7,7 +7,7 @@
 		"gfs-carrier-info": "^1.0.0",
 		"gfs-checkout-widget": "^1.0.0",
 		"gfs-delivery-address": "^1.0.0",
-		"gfs-droppoint": "^1.0.0r",
+		"gfs-droppoint": "^1.0.0",
 		"gfs-selected-droppoint": "^1.0.0",
 		"gfs-supported-carriers": "^1.0.0"
 	},
