@@ -5,7 +5,7 @@
 	"dependencies": {
 		"gfs-carrier-icon": "^1.0.0",
 		"gfs-carrier-info": "^1.0.0",
-		"gfs-checkout-widget": "^1.0.0",
+		"gfs-checkout-widget": "^1.0.1",
 		"gfs-delivery-address": "^1.0.0",
 		"gfs-droppoint": "^1.0.0",
 		"gfs-selected-droppoint": "^1.0.0",
@@ -16,8 +16,9 @@
 		"iron-demo-helpers": "PolymerElements/iron-demo-helpers#^1.0.0",
 		"web-component-tester": "^4.0.0",
 		"webcomponentsjs": "webcomponents/webcomponentsjs#^0.7.0"
-	},	
-	"main":"gfs-checkout-collection.html",
+	},
+    "main": "gfs-checkout-collection.html",
+    "license": "Apache-2.0",
 	"repository": {
 		"type": "git",
 		"url": "https://github.com/GlobalFreightSolutions/gfs-checkout-collection.git"
